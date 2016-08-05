@@ -1,7 +1,7 @@
 {
   "name": "textmate-blackboard-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A blackboard textmate theme for Atom",
   "keywords": [
     "syntax",
