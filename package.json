@@ -1,0 +1,17 @@
+{
+  "name": "textmate-blackboard-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A blackboard textmate theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "textmate",
+    "blackboard"
+  ],
+  "repository": "https://github.com/phthhieu/textmate-blackboard-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
